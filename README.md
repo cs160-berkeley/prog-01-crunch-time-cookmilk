@@ -1,22 +1,19 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+This app is a simple calories burned conversion app. Users can input the kind of exercises they do, and how much they do. The app will automatically convert how many calories burned, and the equivalence to other exercises.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Chang Liu
+([liu.chang@berkeley.edu](mailto:liu.chang@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See Crunch Time by Ricky  (https://youtu.be/pQ6UHNCv3hs)
 
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+Thank you for Jingyi's great discussion section!
